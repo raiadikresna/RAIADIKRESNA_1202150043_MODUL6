@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "393416006645",
+    "firebase_url": "https://raiadikresna-1202150043-modul6.firebaseio.com",
+    "project_id": "raiadikresna-1202150043-modul6",
+    "storage_bucket": "raiadikresna-1202150043-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393416006645:android:8b61dbd8e43e1b11",
+        "android_client_info": {
+          "package_name": "id.rai.raiadikresna_1202150043_modul6.activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393416006645-ufv5ou67h2qm6bst335p79pb6tq3pskl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.rai.raiadikresna_1202150043_modul6.activity",
+            "certificate_hash": "c04f900f47d5d96b48c40a82ad336b5c574474b0"
+          }
+        },
+        {
+          "client_id": "393416006645-n5361beef71fbcr0bg2t32f9or9m37cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5YTSlDLhhJCfGD8YffWpV2zBTSIHigE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393416006645-n5361beef71fbcr0bg2t32f9or9m37cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
